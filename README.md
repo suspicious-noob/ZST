@@ -7,7 +7,8 @@
 [![GitHub latest release](https://img.shields.io/github/v/release/suspicious-noob/zst)](https://github.com/suspicious-noob/zst/releases)
 ![Release Date](https://img.shields.io/badge/Released-June_21,_2025-brightgreen)
 <!--![Download Size](https://img.shields.io/badge/Download%20Size-1.3MB-blue)-->
-
+### 🛠 Topics:
+`zpaq` • `windows` • `batch-script` • `compression` • `archiving`
 
 
 
