@@ -1,8 +1,15 @@
-# ZST - ZPAQ Smart Toolkit
+# ZST - ZPAQ Smart Toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/suspicious-noob/zst?style=social) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 > A powerful, intelligent, and user-friendly batch archiving utility powered by ZPAQ. Designed for efficiency, safety, and flexibility.
 
 ---
+
+[![GitHub latest release](https://img.shields.io/github/v/release/suspicious-noob/zst)](https://github.com/suspicious-noob/zst/releases)
+![Release Date](https://img.shields.io/badge/Released-June_21,_2025-brightgreen)
+<!--![Download Size](https://img.shields.io/badge/Download%20Size-1.3MB-blue)-->
+
+
+
 
 ## 📦 Overview
 
@@ -71,7 +78,7 @@ During compression:
 Archive files are saved with a `.zpaq` extension.
 
 ---
-
+<!--![Repo size](https://img.shields.io/github/repo-size/suspicious-noob/zst)-->
 ## 🔐 Safety Notice
 
 ZST uses system resources heavily for compression. Systems with low RAM or CPUs may experience slowdowns or crashes. The script includes:
