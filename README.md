@@ -51,8 +51,20 @@ ZST/
 -`zpaq.exe` (ZPAQ binary, renamed from zpaq64.exe)
 
 ---
+### ⚠️ Windows Defender Warning
+
+ZST is a batch file that automates compression using ZPAQ. Because `.bat` files can run system commands, Windows Defender or SmartScreen might flag it as unsafe.
+
+✅ This tool is open-source and can be inspected before use  
+🛡 If you're comfortable, you can right-click the `.bat` file → **Properties** → **Unblock**  
+🔐 Alternatively, view the source code in `ZST.bat` before running
 
 ## 📋 How to Use
+
+1. Go to: https://github.com/suspicious-noob/ZST/releases/latest
+2. Download the .zip file under "Assets"
+3. Extract it somewhere safe (not Program Files)
+4. Run ZST.bat (double-click or drag a file/folder onto it)
 
 ### 🖱 Drag and Drop
 
